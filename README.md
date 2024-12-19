@@ -15,4 +15,4 @@ IAP区域被划分为ota区和差分包区，IAP区域总大小 2M - 8K，把最
 ## 示例
 阅读app_update.c update_protocol.h
 ## 感谢
-https://github.com/smalixing/mcu_bsdiff_upgrade.git， 本仓库是基于此仓库移植并使用于stm32平台的demo
+https://github.com/smalixing/mcu_bsdiff_upgrade.git ,本仓库是基于此仓库移植并使用于stm32平台的demo
